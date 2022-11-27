@@ -48,3 +48,8 @@ footer {
 footer p {
   color: black;
 }
+
+footer .fa-brands{
+  font-size: 4rem;
+  padding-left: 2%;
+}
